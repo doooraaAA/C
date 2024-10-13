@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\excercise\structure\homework9\homework9\源.cpp(62,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  homework9.vcxproj -> F:\excercise\structure\homework9\x64\Debug\homework9.exe

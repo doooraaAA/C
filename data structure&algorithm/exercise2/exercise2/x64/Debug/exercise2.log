@@ -1,0 +1,5 @@
+﻿  源.cpp
+F:\excercise\structure\exercise2\exercise2\源.cpp(6,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(971,1): message : 参见“OVERFLOW”的前一个定义
+F:\excercise\structure\exercise2\exercise2\源.cpp(119,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  exercise2.vcxproj -> F:\excercise\structure\exercise2\x64\Debug\exercise2.exe

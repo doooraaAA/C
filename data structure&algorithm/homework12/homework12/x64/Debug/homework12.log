@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(971,1): warning C4005: “OVERFLOW”: 宏重定义
+F:\excercise\structure\homework12\homework12\源.cpp(12,1): message : 参见“OVERFLOW”的前一个定义
+F:\excercise\structure\homework12\homework12\源.cpp(43,13): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+F:\excercise\structure\homework12\homework12\源.cpp(59): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  homework12.vcxproj -> F:\excercise\structure\homework12\x64\Debug\homework12.exe
